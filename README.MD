@@ -164,17 +164,17 @@ Take a look at the code examples inside this repo to understand the syntax and s
 
 ### General
 
-[MassiveJS documentation](https://massive-js.readthedocs.io/en/v2/) - There are a lot of neat tips and tricks here that can really level up your usage of massive.
-[Heroku](https://heroku.com) - A hosting service that will allow you to create and host a new database.
-[SQL Tabs](https://www.sqltabs.com/) - A program for interacting with SQL databases.  You should download this and use it for testing queries in your own db.
-[Postico - MAC ONLY](https://eggerapps.at/postico/) - A popular client available only for mac, accomplishes the same things as SQLTabs but has a friendlier interface.
+* [MassiveJS documentation](https://massive-js.readthedocs.io/en/v2/) - There are a lot of neat tips and tricks here that can really level up your usage of massive.
+* [Heroku](https://heroku.com) - A hosting service that will allow you to create and host a new database.
+* [SQL Tabs](https://www.sqltabs.com/) - A program for interacting with SQL databases.  You should download this and use it for testing queries in your own db.
+* [Postico - MAC ONLY](https://eggerapps.at/postico/) - A popular client available only for mac, accomplishes the same things as SQLTabs but has a friendlier interface.
 
 ### Articles
 
-[Writing a RESTful API with Express & MassiveJS - Medium](https://medium.com/@alexishevia/writing-a-restful-api-with-express-massivejs-465218800c08) - An article walking through creating a RESTful API from start to finish.  A good resorce to read and code along with.
-[Designing a RESTful API with Node and Postgres](https://mherman.org/blog/designing-a-restful-api-with-node-and-postgres/)  - An article walking through the thought process of designing a RESTful API using Node and PostgresSQL.  It would be worth your time to brush up on RESTful principles as they will become more important as our apps become more complex. 
+* [Writing a RESTful API with Express & MassiveJS - Medium](https://medium.com/@alexishevia/writing-a-restful-api-with-express-massivejs-465218800c08) - An article walking through creating a RESTful API from start to finish.  A good resorce to read and code along with.
+* [Designing a RESTful API with Node and Postgres](https://mherman.org/blog/designing-a-restful-api-with-node-and-postgres/)  - An article walking through the thought process of designing a RESTful API using Node and PostgresSQL.  It would be worth your time to brush up on RESTful principles as they will become more important as our apps become more complex. 
 
 ### Videos
 
-[Database as API with PostgresSQL and Massive.js - YouTube](https://www.youtube.com/watch?v=wgoPa5Kn0n0) - A very in depth explanation of using a PostgresSQL database as an api with massive.  Not everything in this video will make sense to you but it's a great resource for being exposed to some of these higher level concepts.
-[REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA) - A video reviewing the concept of REST and giving some examples.  Introducing a database into our application adds another level of complexity.  Following RESTful principles will become increasingly important and it would be good for you to review them.  
+* [Database as API with PostgresSQL and Massive.js - YouTube](https://www.youtube.com/watch?v=wgoPa5Kn0n0) - A very in depth explanation of using a PostgresSQL database as an api with massive.  Not everything in this video will make sense to you but it's a great resource for being exposed to some of these higher level concepts.
+* [REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA) - A video reviewing the concept of REST and giving some examples.  Introducing a database into our application adds another level of complexity.  Following RESTful principles will become increasingly important and it would be good for you to review them.  
