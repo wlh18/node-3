@@ -209,3 +209,5 @@ Take a look at the code examples inside this repo to understand the syntax and s
 https://github.com/DevMountain/node-3-mini
 
 # Node 3 Afternoon Project
+
+https://github.com/DevMountain/node-3-afternoon
