@@ -2,6 +2,31 @@
 
 In this lecture, we will talk more about node, setting up our database using Heroku, and how to interact with our databases using SQLtabs.
 
+## Lecture Slides
+
+https://slides.com/matias_perez/node-three
+
+# Student Learning Objectives
+
+### Database Setup
+
+* Student can/has setup a heroku database (or an equivalent.)
+* Student can/has installed SQL Tabs (or an equivalent.)
+* Student can make queries to their database using SQL Tabs (or an equivalent.)
+
+### Massive
+
+* Student can install and setup massiveJS to connect their server to their database.
+* Student can implement dotenv and store their connection string in a dotenv file.
+* Student can use a seed file to set up their database.
+* Student can create a db folder with SQL files.
+* Student can execute SQL queries with massiveJS.
+* Student can use references to arguments in SQL statements ($n, ...).
+
+### Patterns
+
+* Student understands good organization for their node code dealing with queries
+
 ## Heroku Database
 
 We used to install PostgreSQL locally and create databases on our local machine, but it would start to take up a ton of memory and really slow down some students computers. We now will create our database on Heroku's cloud platform.
@@ -178,3 +203,9 @@ Take a look at the code examples inside this repo to understand the syntax and s
 
 * [Database as API with PostgresSQL and Massive.js - YouTube](https://www.youtube.com/watch?v=wgoPa5Kn0n0) - A very in depth explanation of using a PostgresSQL database as an api with massive.  Not everything in this video will make sense to you but it's a great resource for being exposed to some of these higher level concepts.
 * [REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA) - A video reviewing the concept of REST and giving some examples.  Introducing a database into our application adds another level of complexity.  Following RESTful principles will become increasingly important and it would be good for you to review them.  
+
+# Node 3 Mini Project
+
+https://github.com/DevMountain/node-3-mini
+
+# Node 3 Afternoon Project
