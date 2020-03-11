@@ -142,7 +142,10 @@ const massive = require('massive');
 Now we can invoke the `massive` function passing in our connection string to get connected to our db and return an instance of it.
 
 ```js
-massive(CONNECTION_STRING).then((dbInstance) => {
+massive({
+    connectionString: CONNECTION_STRING, 
+    ssl: {rejectUnauthorized: false})
+.then((dbInstance) => {
     app.set('db', dbInstance);
 });
 ```
