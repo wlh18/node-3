@@ -2,11 +2,13 @@
 
 In this lecture, we will talk more about node, setting up our database using Heroku, and how to interact with our databases using SQLtabs.
 
-## Lecture Slides
+Lecture Slides: https://slides.com/dmweb/node-three
 
-https://slides.com/matias_perez/node-three
+Mini Project: https://github.com/DevMountain/node-3-mini
 
-# Student Learning Objectives
+Afternoon Project: https://github.com/DevMountain/node-3-afternoon
+
+## Student Learning Objectives
 
 ### Database Setup
 
